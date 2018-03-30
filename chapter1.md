@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -10,30 +12,32 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: bc8e7ede74
+key: 88e0e65640
 ```
 
 
-`@instructions`
 
-`@hint`
 
-`@pre_exercise_code`
-```{python}
 
+
+
+
+
+
+
+
+
+
+---
+## Welcome to the first exercise
+
+```yaml
+type: VideoExercise
+
+xp: undefined
+
+key: a18aa2e825
 ```
 
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@projector_key`
+29ea9d85102392e4a7f1911ac797047e
